@@ -10,7 +10,7 @@ variable "appname" {
 }
 variable "rg" {
     type = string
-    default = "aksbh"
+    default = "azureL2"
     
   
 }
